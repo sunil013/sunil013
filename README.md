@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 👨‍💻 All of my projects are available at [sunil013.github.io/my-portfolio](https://sunil013.github.io/my-portfolio/)
+- 👨‍💻 All of my projects are available at [sunil013.github.io/my-portfolio](https://sunil013.github.io/portfolio/)
 
 - 💬 Ask me about **React, Node**
 
