@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sunildevabathula013@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1xbGQnrCuNOdkAd8jkn3Lh6fkdUglhpUy/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1xbGQnrCuNOdkAd8jkn3Lh6fkdUglhpUy/view?usp=sharing](https://drive.google.com/file/d/1Q9EYcf4QTCZJhiTJCF38ZPzCxnGEumIV/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -58,11 +58,11 @@
 ### Summary
 I am a Full Stack Developer passionate about crafting dynamic web applications. Specializing in frontend development with React.js, I create intuitive interfaces that prioritize user experience.
 
-Complementing my frontend skills, I excel in backend development using the Spring framework. My focus is on seamless integration and robust functionality across all layers of web applications, ensuring high performance and adherence to best practices.
+Complementing my frontend skills, I excel in backend development using the Spring Boot and Node.js. My focus is on seamless integration and robust functionality across all layers of web applications, ensuring high performance and adherence to best practices.
 
 ### What I'm Doing
 - **Frontend Development**: Specializing in frontend technologies to create intuitive user interfaces and responsive web applications.
-- **Backend Development**: Experienced in backend development using frameworks like Spring, focusing on robust server-side functionalities and seamless integration.
+- **Backend Development**: Experienced in backend development using frameworks like Spring Boot and Node.js, focusing on robust server-side functionalities and seamless integration.
 - **Clean Code**: Dedicated to writing clean, maintainable code following best practices and coding standards.
 - **Performance Improvement**: Focused on optimizing application performance to enhance efficiency and user experience.
 
