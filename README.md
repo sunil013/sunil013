@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sunildevabathula013@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1xbGQnrCuNOdkAd8jkn3Lh6fkdUglhpUy/view?usp=sharing](https://drive.google.com/file/d/1Q9EYcf4QTCZJhiTJCF38ZPzCxnGEumIV/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Q9EYcf4QTCZJhiTJCF38ZPzCxnGEumIV/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
