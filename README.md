@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunil013&label=Profile%20views&color=0e75b6&style=flat" alt="sunil013" /> </p>
 
-- 👨‍💻 All of my projects are available at [sunil013.github.io/my-portfolio](https://sunil013.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [sunil013.github.io/portfolio](https://sunil013.github.io/portfolio/)
 
 - 💬 Ask me about **React.js, Spring Boot, SQL, Node.js**
 
