@@ -72,16 +72,6 @@ I specialize in **React.js, JavaScript, TypeScript, and Node.js**, with experien
 - **Testing & Quality:** Jest, Vitest, code reviews
 - **Problem Solving:** Data Structures & Algorithms
 
----
-
-## 📊 GitHub Statistics
-
-![GitHub statistics](https://github-readme-stats.vercel.app/api?username=sunil013&show_icons=true&theme=transparent&hide_border=true)
-
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sunil013&layout=compact&theme=transparent&hide_border=true)
-
----
-
 ## 🤝 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sunil-devabattula/)
