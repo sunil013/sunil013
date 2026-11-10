@@ -1,71 +1,159 @@
-[[![MasterHead](https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)](https://sunil013.github.io/portfolio/)
-<h1 align="center">Hi 👋, I'm Sunil Devabattula</h1>
-<h3 align="center">Software Development Engineer</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+# Hi 👋, I'm Sunil Devabattula
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sunil013&label=Profile%20views&color=0e75b6&style=flat" alt="sunil013" /> </p>
+### MERN Full Stack Developer \| React.js \| Node.js \| TypeScript
 
-- 👨‍💻 All of my projects are available at [sunil013.github.io/portfolio](https://sunil013.github.io/portfolio/)
+I'm a Full Stack Developer with nearly 4 years of experience building
+enterprise applications, scalable web platforms, and AI-powered
+products.
 
-- 💬 Ask me about **React.js, Spring Boot, SQL, Node.js**
+I specialize in **React.js, JavaScript, TypeScript, and Node.js**, with
+experience in MongoDB, REST APIs, Elasticsearch, cloud integrations, and
+modern frontend architecture. I enjoy solving real-world engineering
+problems involving application performance, large-scale data handling,
+state management, and scalable user experiences.
 
-- 📫 How to reach me **sunildevabathula013@gmail.com**
+-   💼 **Current/Most Recent Experience:** Software Development Engineer
+    at **Futurist Global (Onsite: Broadcom)**
+-   🌐 **Portfolio:**
+    [sunil013.github.io/portfolio](https://sunil013.github.io/portfolio/)
+-   💬 **Ask me about:** React.js, JavaScript, TypeScript, Node.js,
+    MongoDB, and Frontend Architecture
+-   📄 **Resume:** [View my
+    resume](https://drive.google.com/file/d/1Q9EYcf4QTCZJhiTJCF38ZPzCxnGEumIV/view?usp=sharing)
+-   📫 **Email:** sunildevabathula013@gmail.com
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Q9EYcf4QTCZJhiTJCF38ZPzCxnGEumIV/view?usp=sharing)
+------------------------------------------------------------------------
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sunil013" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sunil013" height="30" width="40" /></a>
+## 🚀 Engineering Highlights
+
+  -----------------------------------------------------------------------
+  Achievement                         Impact
+  ----------------------------------- -----------------------------------
+  Enterprise development              Nearly 4 years of experience
+
+  Elasticsearch indexing              1.3M+ documents across 10,000+
+                                      devices
+
+  Bundle optimization                 Reduced initial page transfer size
+                                      by over 65%
+
+  API performance                     Reduced average search response
+                                      time from 5,000+ ms to under 300 ms
+  -----------------------------------------------------------------------
+
+------------------------------------------------------------------------
+
+## 💼 Experience
+
+### Software Development Engineer --- Futurist Global
+
+**Onsite: Broadcom**
+
+-   Modernized a legacy NetOps certification platform using React.js and
+    Node.js, reducing initial page transfer size from 800+ kB to under
+    280 kB.
+-   Implemented Elasticsearch-based indexing and search for 1.3M+
+    documents across 10,000+ devices, with server-side pagination,
+    advanced filtering, and debounced search.
+-   Improved search API performance through Elasticsearch query
+    optimization and in-memory caching, achieving average response times
+    under 300 ms compared with 5,000+ ms in the legacy portal.
+-   Developed PXGPT, an internal enterprise AI platform powered by
+    Gemini, with multi-conversation workflows, agent management,
+    role-based access control, file uploads, infinite-scroll
+    conversation history, and SSE-based response streaming.
+-   Built an embeddable AI Chat Assistant for Broadcom Clarity using
+    Stencil.js, supporting dynamic chart rendering, attachment
+    selection, dock mode, and resizable layouts.
+-   Developed and maintained SimulationLabs, an internal platform for
+    product simulations, including LLM-powered search and advanced
+    filtering.
+-   Automated NetOps data ingestion and validation using VM-based
+    scripts, Google Cloud Storage, Pub/Sub, and Elasticsearch.
+
+### Software Development Engineer --- 1FIN (IndigoLearn)
+
+-   Built a role-based attendance management experience with distinct
+    student and faculty workflows using React, Material UI, and Redux.
+-   Upgraded the main website's Node.js runtime from v14 to v18 across
+    an application with 400+ components.
+-   Improved page performance through lazy loading, image optimization,
+    layout-shift prevention, SSR, and SEO improvements.
+-   Developed internal sales tools for searching, pinning, and sharing
+    leads between teammates.
+
+------------------------------------------------------------------------
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+```{=html}
+<p>
+```
+`<img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,tailwind" alt="React, TypeScript, JavaScript, HTML, CSS, Tailwind CSS" />`{=html}
+```{=html}
 </p>
+```
+### Backend & Database
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
-  </a> 
-  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring-boot" width="40" height="40"/> 
-  </a> 
+```{=html}
+<p>
+```
+`<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,java,spring" alt="Node.js, Express, MongoDB, Java, Spring" />`{=html}
+```{=html}
 </p>
+```
+### Cloud, Tools & Testing
 
-### Summary
-I am a Full Stack Developer passionate about crafting dynamic web applications. Specializing in frontend development with React.js, I create intuitive interfaces that prioritize user experience.
+```{=html}
+<p>
+```
+`<img src="https://skillicons.dev/icons?i=gcp,git,github,vite,jest" alt="Google Cloud, Git, GitHub, Vite, Jest" />`{=html}
+```{=html}
+</p>
+```
+### Additional Engineering Skills
 
-Complementing my frontend skills, I excel in backend development using the Spring Boot and Node.js. My focus is on seamless integration and robust functionality across all layers of web applications, ensuring high performance and adherence to best practices.
+-   **State Management:** Redux, Redux Toolkit
+-   **Search & Data:** Elasticsearch, server-side pagination, filtering,
+    caching
+-   **Frontend Engineering:** Web Components, Stencil.js, SSR,
+    virtualization, infinite scrolling, performance optimization
+-   **Backend Engineering:** REST APIs, Node.js, Express.js, Spring Boot
+-   **Cloud & Messaging:** Google Cloud Storage, Pub/Sub
+-   **Real-time Communication:** Server-Sent Events (SSE)
+-   **Testing & Quality:** Jest, Vitest, code reviews
+-   **Problem Solving:** Data Structures & Algorithms
 
-### What I'm Doing
-- **Frontend Development**: Specializing in frontend technologies to create intuitive user interfaces and responsive web applications.
-- **Backend Development**: Experienced in backend development using frameworks like Spring Boot and Node.js, focusing on robust server-side functionalities and seamless integration.
-- **Clean Code**: Dedicated to writing clean, maintainable code following best practices and coding standards.
-- **Performance Improvement**: Focused on optimizing application performance to enhance efficiency and user experience.
+------------------------------------------------------------------------
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sunil013&show_icons=true&locale=en&layout=compact" alt="sunil013" /></p>
+## 📊 GitHub Statistics
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sunil013&show_icons=true&locale=en" alt="sunil013" /></p>
+```{=html}
+<p>
+```
+`<img height="165" src="https://github-readme-stats.vercel.app/api?username=sunil013&show_icons=true&theme=transparent&hide_border=true" alt="Sunil's GitHub statistics" />`{=html}
+`<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunil013&layout=compact&theme=transparent&hide_border=true" alt="Most used languages" />`{=html}
+```{=html}
+</p>
+```
+
+------------------------------------------------------------------------
+
+## 🤝 Connect With Me
+
+```{=html}
+<p>
+```
+`<a href="https://linkedin.com/in/sunil-devabattula">`{=html}
+`<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />`{=html}
+`</a>`{=html} `<a href="https://sunil013.github.io/portfolio/">`{=html}
+`<img src="https://img.shields.io/badge/Portfolio-Explore-0055D4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />`{=html}
+`</a>`{=html} `<a href="mailto:sunildevabathula013@gmail.com">`{=html}
+`<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />`{=html}
+`</a>`{=html}
+```{=html}
+</p>
+```
+⭐ Thanks for visiting my profile!
