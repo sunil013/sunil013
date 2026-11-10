@@ -8,6 +8,7 @@ I specialize in **React.js, JavaScript, TypeScript, and Node.js**, with experien
 
 - 💼 **Experience:** Software Development Engineer at **Futurist Global (Onsite: Broadcom)**
 - 🌐 **Portfolio:** [sunil013.github.io/portfolio](https://sunil013.github.io/portfolio/)
+- 🌐 **Leetcode:** [https://leetcode.com/u/sunild013/](https://leetcode.com/u/sunild013/)
 - 💬 **Ask me about:** React.js, JavaScript, TypeScript, Node.js, MongoDB, and Frontend Architecture
 - 📄 **Resume:** [View my resume](https://drive.google.com/file/d/1Q9EYcf4QTCZJhiTJCF38ZPzCxnGEumIV/view?usp=sharing)
 - 📫 **Email:** sunildevabathula013@gmail.com
