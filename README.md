@@ -7,10 +7,10 @@ I'm a Full Stack Developer with nearly 4 years of experience building enterprise
 I specialize in **React.js, JavaScript, TypeScript, and Node.js**, with experience in MongoDB, REST APIs, Elasticsearch, cloud integrations, and modern frontend architecture. I enjoy solving real-world engineering problems involving application performance, large-scale data handling, state management, and scalable user experiences.
 
 - 💼 **Experience:** Software Development Engineer at **Futurist Global (Onsite: Broadcom)**
-- 🌐 **Portfolio:** [sunil013.github.io/portfolio](https://sunil013.github.io/portfolio/)
+- 🌐 **Portfolio:** [https://sunild-portfolio.vercel.app/](https://sunild-portfolio.vercel.app/)
 - 🌐 **Leetcode:** [https://leetcode.com/u/sunild013/](https://leetcode.com/u/sunild013/)
 - 💬 **Ask me about:** React.js, JavaScript, TypeScript, Node.js, MongoDB, and Frontend Architecture
-- 📄 **Resume:** [View my resume](https://drive.google.com/file/d/1Q9EYcf4QTCZJhiTJCF38ZPzCxnGEumIV/view?usp=sharing)
+- 📄 **Resume:** [View my resume](https://drive.google.com/file/d/1kPpIQq8kD62K9eFj9Eoc7hj4makvr8Sq/view?usp=drive_link)
 - 📫 **Email:** sunildevabathula013@gmail.com
 
 ---
